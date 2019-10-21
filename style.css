@@ -29,6 +29,21 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
   }
+
   
+#about {
+    margin-top: 15px;
+}
 
+.port1 {
+    margin-top: 15px;
+}
 
+.port2 {
+    margin-top: 15px;
+}
+
+#contact {
+    margin-top: 15px;
+    text-align: center;
+}
